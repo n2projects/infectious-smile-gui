@@ -1,6 +1,6 @@
 # infectious-smile-gui
 A GUI script for the game "Infectious Smile" on Roblox. Can delete no-fly scripts and more.
-Obfuscated cause why not?
+Obfuscated but not slow.
 
 ## Quick Note
 If you are confused about it saying "Vaporsploit", thats a pseudonym I use.
